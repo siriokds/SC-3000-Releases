@@ -1,6 +1,6 @@
 # SC-3000-Releases
 
-H2 /ROMS
+/ROMS
 -------------
 
 - SV-1001 - BurgerTime.sg
@@ -54,7 +54,7 @@ H2 /ROMS
 - SV-1017 - SHMUP!.sg
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
-H2 /DEMO
+/DEMO
 -------------
 
 - SD-1001 - DanymiteGo!Go!.sg
