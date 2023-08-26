@@ -1,5 +1,7 @@
 # SC-3000-Releases
 
+###/ROMS
+
 SV-1001 - BurgerTime.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
@@ -50,6 +52,8 @@ SV-1016 - Pippols.sg
 
 SV-1017 - SHMUP!.sg
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
+###/DEMO
 
 SD-1001 - DanymiteGo!Go!.sg
 48K, SG-1000, No SMS
