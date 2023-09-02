@@ -57,6 +57,13 @@
 - SV-1018 - InqAndSuq!.sg
 48K, SG-1000, No SMS
 
+- SV-1019 - BombermanSpecialDeluxe.sg
+48K, SG-1000, No SMS
+
+- SV-1020 - Twinbee.sg
+48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
+
 /DEMO
 -------------
 
