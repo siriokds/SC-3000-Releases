@@ -63,13 +63,16 @@
 - SV-1020 - Twinbee.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
-SV-1021 - Knightmare.sg
+- SV-1021 - Knightmare.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
-SV-1022 - Yie Ar Kung-Fu (2 Players).sg
+- SV-1022 - Yie Ar Kung-Fu (2 Players).sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
-SV-1023 - Yie Ar Kung-Fu II - The Emperor Yie-Gah.sg
+- SV-1023 - Yie Ar Kung-Fu II - The Emperor Yie-Gah.sg
+48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
+- SV-1024 - KonamiTennis.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 
