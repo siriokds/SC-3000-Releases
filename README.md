@@ -81,6 +81,9 @@
 - SV-1026 - InspecteurZ.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
+- SV-1027 - HoleInOne.sg
+48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
 
 /DEMO
 -------------
