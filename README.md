@@ -87,6 +87,8 @@
 - SV-1028 - KonamiGolf.sg
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
+- SV-1029 - StarSoldier.sg
+48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 
 /DEMO
