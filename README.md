@@ -16,7 +16,7 @@
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1005 - TimePilot.sg
-32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1006 - Antarctic Adventure.sg
 32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
@@ -46,13 +46,13 @@
 48K, SG-1000, SC-3000 (joy and keyb), No SMS
 
 - SV-1015 - MagicalTree.sg
-32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1016 - Pippols.sg
-32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1017 - SHMUP!.sg
-32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1018 - InqAndSuq!.sg
 48K, SG-1000, No SMS
