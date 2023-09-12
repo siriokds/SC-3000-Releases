@@ -75,7 +75,7 @@
 - SV-1024 - KonamiTennis.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
-- SV-1025 - KojiraKun.sg
+- SV-1025 - GojiraKun.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1026 - InspecteurZ.sg
