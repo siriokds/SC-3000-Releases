@@ -78,6 +78,10 @@
 - SV-1025 - KojiraKun.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
+- SV-1026 - InspecteurZ.sg
+48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
+
 /DEMO
 -------------
 
