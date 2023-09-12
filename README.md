@@ -43,7 +43,7 @@
 48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1014 - GommyMedievalDefender.sg
-48K, SG-1000, No SMS
+48K, SG-1000, SC-3000 (joy and keyb), No SMS
 
 - SV-1015 - MagicalTree.sg
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
