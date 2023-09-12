@@ -55,7 +55,7 @@
 32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1018 - InqAndSuq!.sg
-48K, SG-1000, No SMS
+48K, SG-1000, SC-3000 (only joystick), No SMS
 
 - SV-1019 - BombermanSpecialDeluxe.sg
 48K, SG-1000, No SMS
@@ -89,6 +89,9 @@
 
 - SV-1029 - StarSoldier.sg
 48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
+
+- SV-1030 - IgaNinpouten2.sg
+48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 
 /DEMO
