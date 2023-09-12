@@ -31,10 +31,10 @@
 48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1010 - TheGoonies.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1011 - GuruLogic.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1012 - ZanacAI.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
