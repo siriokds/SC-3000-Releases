@@ -37,10 +37,10 @@
 48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1012 - ZanacAI.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1013 - ExoideZArea5.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1014 - GommyMedievalDefender.sg
 48K, SG-1000, No SMS
