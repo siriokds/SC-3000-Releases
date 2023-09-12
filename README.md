@@ -73,7 +73,7 @@
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1024 - KonamiTennis.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1025 - GojiraKun.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
@@ -83,6 +83,10 @@
 
 - SV-1027 - HoleInOne.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
+- SV-1028 - KonamiGolf.sg
+32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+
 
 
 /DEMO
