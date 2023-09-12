@@ -79,6 +79,6 @@
 /DEMO
 -------------
 
-- SD-1001 - DanymiteGo!Go!.sg
+- SD-1001 - DynamiteGo!Go!.sg
 48K, SG-1000, No SMS
 
