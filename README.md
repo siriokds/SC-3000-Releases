@@ -4,7 +4,7 @@
 -------------
 
 - SV-1001 - BurgerTime.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1002 - DonkeyKong.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
@@ -19,16 +19,16 @@
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1006 - Antarctic Adventure.sg
-32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1007 - LunarBall.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1008 - Bosconian.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1009 - KonamiSoccer.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 - SV-1010 - TheGoonies.sg
 48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
@@ -88,7 +88,7 @@
 32K, SG-1000, Master Everdrive (CPLD 2, OS 9)
 
 - SV-1029 - StarSoldier.sg
-48K, SG-1000, Master Everdrive (CPLD 2, OS 9)
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 
 /DEMO
