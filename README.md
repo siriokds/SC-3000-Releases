@@ -93,6 +93,8 @@
 - SV-1030 - IgaNinpouten2.sg
 48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
+- SV-1031 - FinalJustice.sg
+32K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
 /DEMO
 -------------
