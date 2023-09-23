@@ -105,6 +105,9 @@
 - SV-1034 - HadesuNoMonsho.sg
 48K, SG-1000, SC-3000 (joy and keyb), No SMS
 
+- SV-1035 - Malaika (Relevo).sg
+32K, SG-1000, SC-3000 (only joystick), No SMS
+
 /DEMO
 -------------
 
