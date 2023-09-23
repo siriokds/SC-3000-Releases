@@ -102,6 +102,8 @@
 - SV-1033 - Caos Begins.sg
 48K, SG-1000, SC-3000 (only joystick), No SMS
 
+- SV-1034 - HadesuNoMonsho.sg
+48K, SG-1000, SC-3000 (joy and keyb), No SMS
 
 /DEMO
 -------------
