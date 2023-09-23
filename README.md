@@ -99,6 +99,9 @@
 - SV-1032 - MobilePlanetSuthirus.sg
 48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
+- SV-1033 - Caos Begins.sg
+48K, SG-1000, SC-3000 (only joystick), No SMS
+
 
 /DEMO
 -------------
