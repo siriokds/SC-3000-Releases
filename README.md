@@ -111,6 +111,10 @@
 - SV-1036 - Mecha 8.sg
 48K, SG-1000, SC-3000 (only joystick), No SMS
 
+- SV-1037 - Subacuatic.sg
+48K, SG-1000, SC-3000 (only joystick), No SMS
+
+
 /DEMO
 -------------
 
