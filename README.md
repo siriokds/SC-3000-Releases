@@ -117,6 +117,10 @@
 - SV-1038 - Ninja Savior.sg
 32K, SG-1000, SC-3000 (joy and keyb), No SMS
 
+- SV-1039 - Arkanoid.sg
+48K, SG-1000, SC-3000 (only joystick), No SMS
+
+
 /DEMO
 -------------
 
