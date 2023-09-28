@@ -123,6 +123,8 @@
 - SV-1040 - Shouganai.sg
 48K, SG-1000, SC-3000 (only joystick), No SMS
 
+- SV-1041 - TheStoneOfWisdom.sg
+48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
 /DEMO
 -------------
