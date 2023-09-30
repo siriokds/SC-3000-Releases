@@ -126,6 +126,10 @@
 - SV-1041 - TheStoneOfWisdom.sg
 48K, SG-1000, SC-3000 (joy and keyb), Master Everdrive (CPLD 2, OS 9)
 
+- SV-1042 - Dinj Belmonte's revenge.sg
+48K, SG-1000, SC-3000 (joy and keyb), No SMS
+
+
 /DEMO
 -------------
 
