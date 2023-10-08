@@ -132,6 +132,9 @@
 - SV-1043 - Tetris (Uttum).sg
 48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
 
+- SV-1044 - Youkai Yashiki - Ghost House.sg
+48K, SG-1000, SC-3000 (only joystick), Master Everdrive (CPLD 2, OS 9)
+
 
 /DEMO
 -------------
